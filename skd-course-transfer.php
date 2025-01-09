@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Plugin Name: SKD Course Transfer Plugin
+ * Plugin Name: DC Course Transfer Plugin
  * Description: Transfer courses and lessons between WordPress sites.
  * Version: 1.0
- * Author: SKD
+ * Author: DC
  */
 
 if (!defined('ABSPATH')) {
